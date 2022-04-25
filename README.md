@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi 👋 My name is Diego
+Full Stack Software Developer
+I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-<!--
-**DiegoNunes05/DiegoNunes05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am also a student at 42 | Rio, a Software Engineering school that have 42 campus in 25 countries.
 
-Here are some ideas to get you started:
+🌍 I'm based in Rio de Janeiro, Brazil
+✉️ You can contact me at guilhermomasid@gmail.com
+🚀 I'm currently working on Daktus and Result Sistemas
+🧠 I'm learning Advanced Javascript, Rust and C programming language
+🤝 I'm open to collaborating on projects that have a high impact in peoples lives
+⚡ I love sports and my favorite is Crossfit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+C Javascript Rust Typescript HTML5 React NextJs TailwindCSS Material UI Redux Webpack NodeJS Express GraphQL MongoDB PostgreSQL Heroku
+
+Socials
+  
