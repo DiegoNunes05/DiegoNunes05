@@ -2,10 +2,11 @@
 Hi 👋 My name is Diego.
 ==========================
 
-Full Stack Software Developer
+Front-end Developer
 -----------------------------
 
-I'm a 23 years old.
+I'm a 24 years old.
+Hello! My name is Diego Nunes and I am a front-end programmer who specializes in Analysis and Systems Development. Additionally, I have skills in creating websites and landing pages. I have been working in the web development industry for over a year, utilizing programming languages such as HTML, CSS, JavaScript, and ReactJS. My focus is always on creating creative and responsive solutions that provide the best user experience possible. I am constantly seeking out new technologies and trends to enhance my skills and offer innovative solutions to the projects I work on.
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
