@@ -36,4 +36,4 @@ Hello! I'm Diego Nunes, a front-end developer specializing in web and mobile app
 ### Operating System
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
- 
+ ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoNunes05&show_icons=true&theme=radical)
