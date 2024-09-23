@@ -5,7 +5,7 @@ Hi 👋 My name is Diego.
 Front-end Developer
 -----------------------------
 
-Hello! I'm Diego Nunes, a front-end developer specializing in web and mobile applications with a focus on Analysis and Systems Development. With over 2 years of experience, I excel in creating dynamic and responsive solutions using HTML, CSS, and JavaScript, along with frameworks like ReactJS. My expertise extends to mobile development with React Native, allowing me to craft seamless user experiences across various platforms. I'm passionate about staying abreast of emerging technologies, ensuring my skills are always at the forefront to deliver innovative solutions to my projects!
+Hello! I'm Diego Nunes, a front-end developer specializing in web and mobile applications with a focus on Analysis and Systems Development. With over 4 years of experience, I excel in creating dynamic and responsive solutions using HTML, CSS, and JavaScript, along with frameworks like ReactJS. My expertise extends to mobile development with React Native, allowing me to craft seamless user experiences across various platforms. I'm passionate about staying abreast of emerging technologies, ensuring my skills are always at the forefront to deliver innovative solutions to my projects!
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [diegonunesabc@gmail.com](mailto:diegonunesabc@gmail.com)
