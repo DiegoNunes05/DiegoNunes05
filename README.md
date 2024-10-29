@@ -72,7 +72,7 @@
   <h2>🐍 My Contributions 🐍</h2>  
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake-dark.svg)
 
 <hr/>
 
