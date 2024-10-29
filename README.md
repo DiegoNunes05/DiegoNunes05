@@ -71,11 +71,13 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>  
 </div>
-<div align="center">
-    
-![snake gif](https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake-dark.svg)
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake.svg">
+  <img alt="snake animation" src="https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake.svg">
+</picture>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
