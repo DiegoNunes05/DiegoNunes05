@@ -53,7 +53,7 @@ Experienced in working with global teams, streamlining processes, and effectivel
 
 Below is an overview of my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Disc Rescue Network" src="https://discrescuenetwork.com/static/images/logo.png"/>](https://discrescuenetwork.com/)
+[<img align="left" height="94px" width="94px" alt="Disc Rescue Network" src="https://raw.githubusercontent.com/DiegoNunes05/NomeDoRepositorio/main/images/disc-rescue-logo.png"/>](https://discrescuenetwork.com/)
 
 **Mid-Level Front-End Developer** \
 [**Disc Rescue Network**](https://www.discrescuenetwork.com/) • Full-time • Remote \
