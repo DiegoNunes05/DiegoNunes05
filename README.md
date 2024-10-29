@@ -45,3 +45,28 @@ I prioritize component reusability, performance optimization, and accessibility 
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
  ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoNunes05&show_icons=true&theme=radical)
+
+
+### Work Experience
+
+Below is an overview of my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Disc Rescue Network" src="https://discrescuenetwork.com/static/images/logo.png"/>](https://discrescuenetwork.com/)
+
+**Mid-Level Front-End Developer** \
+[**Disc Rescue Network**](https://discrescuenetwork.com/) • Full-time • Remote \
+Languages & Technologies: `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Bootstrap`, `Node.js` \
+Highlighted Projects: [Disc Rescue Platform](https://discrescuenetwork.com/) \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Aglet Digital" src="https://aglet.com.br/logo.png"/>](https://aglet.com.br/)
+
+**Front-End Intern** \
+[**Aglet Digital**](https://aglet.com.br/) • Internship • Rio de Janeiro, Brazil \
+Languages & Technologies: `HTML`, `CSS`, `Bootstrap`, `JavaScript` \
+Highlighted Projects: Developed over 80 web pages, improving user experience and optimizing web systems. \
+<br/>
+
+For a more detailed description of my work experience, please find me on [LinkedIn](https://www.linkedin.com/in/diegonsp/).
+
+
