@@ -53,7 +53,7 @@ Experienced in working with global teams, streamlining processes, and effectivel
 
 Below is an overview of my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Disc Rescue Network" src="https://raw.githubusercontent.com/DiegoNunes05/DiegoNunes05/main/images/disc-rescue-network-logo.jpeg" style="border: 2px solid #d1d5db; border-radius: 8px; margin-right: 10px;"/>](https://discrescuenetwork.com/)
+[<img align="left" height="94px" width="94px" alt="Disc Rescue Network" src="https://raw.githubusercontent.com/DiegoNunes05/DiegoNunes05/main/images/disc-rescue-network-logo.jpeg"/>](https://discrescuenetwork.com/)
 
 **Mid-Level Front-End Developer** \
 [**Disc Rescue Network**](https://www.discrescuenetwork.com/) • Full-time • Remote \
@@ -61,7 +61,7 @@ Languages & Technologies: `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `
 Highlighted Projects: [Disc Rescue Platform](https://github.com/Disc-Rescue-Network/disc-rescue-network/), [Disc Rescue admin dashboard](https://github.com/Disc-Rescue-Network/drn-admin-dashboard/), [Team Challenge App](https://github.com/Disc-Rescue-Network/team-challenge-app/) \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Aglet Digital" src="https://aglet.com.br/logo.png"/>](https://aglet.com.br/)
+[<img align="left" height="94px" width="94px" alt="Aglet Digital" src="https://raw.githubusercontent.com/DiegoNunes05/DiegoNunes05/main/images/aglet-digital-logo.jpeg"/>](https://aglet.com.br/)
 
 **Front-End Intern** \
 [**Aglet Digital**](https://www.linkedin.com/company/aglet-digital/posts/?feedView=all/) • Internship • Rio de Janeiro, Brazil \
