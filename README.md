@@ -16,7 +16,7 @@
 
 💬 Ask me about **React, TypeScript, Node.js... or anything [here](https://github.com/DiegoNunes05/DiegoNunes05/issues)**
 
-⚡ Fun fact **I learned Italian by speaking it constantly with professors and students in college**
+⚡ Fun fact **I enjoy learning languages through music and have used this method to learn English.**
 
  </div>
  
@@ -51,8 +51,6 @@
   <a href="https://discrescuenetwork.com/">
     <img align="left" height="94px" width="94px" alt="Disc Rescue Network" src="https://raw.githubusercontent.com/DiegoNunes05/DiegoNunes05/main/images/disc-rescue-network-logo.jpeg" style="border: 2px solid #808080; border-radius: 8px; margin-right: 10px;"/>
   </a> 
-
-<br/>
 
   **Mid-Level Front-End Developer** \
   [**Disc Rescue Network**](https://www.discrescuenetwork.com/) • Full-time • Remote \
