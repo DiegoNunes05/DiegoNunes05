@@ -5,9 +5,11 @@ Hi 👋 My name is Diego.
 Front-end Developer
 -----------------------------
 
-Hello! I'm Diego Nunes, a front-end developer with over 4 years of experience specializing in web and mobile applications. I create dynamic, responsive solutions using HTML, CSS, JavaScript, and frameworks like ReactJS and Next.js, with a strong focus on API integration (REST, Firebase, Supabase) and state management. My mobile expertise includes React Native, delivering seamless experiences across platforms.
+Front-End Developer, specialized in React.js, Next.js, and Vue.js. Programming since 2020, building scalable web and mobile interfaces with a focus on performance and seamless user experiences. Experienced in integrating real-time data and creating reusable components for modern applications.
 
-I prioritize component reusability, performance optimization, and accessibility (WCAG standards) to ensure scalable and user-friendly applications. Skilled in Agile methodologies (Scrum/Kanban), I'm experienced in version control with Git and committed to continuously improving my skill set to bring innovative solutions to every project.
+Currently contributing as a Mid-level Front-End Developer at Disc Rescue Network, responsible for developing and maintaining the application’s architecture. Skills include responsive design, API integration, and state management, ensuring efficient and user-friendly solutions.
+
+Experienced in working with global teams, streamlining processes, and effectively troubleshooting complex challenges to improve user experience and product performance.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [diegonunesabc@gmail.com](mailto:diegonunesabc@gmail.com)
@@ -54,7 +56,7 @@ Below is an overview of my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Disc Rescue Network" src="https://discrescuenetwork.com/static/images/logo.png"/>](https://discrescuenetwork.com/)
 
 **Mid-Level Front-End Developer** \
-[**Disc Rescue Network**](https://discrescuenetwork.com/) • Full-time • Remote \
+[**Disc Rescue Network**](https://www.discrescuenetwork.com/) • Full-time • Remote \
 Languages & Technologies: `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Bootstrap`, `Node.js` \
 Highlighted Projects: [Disc Rescue Platform](https://discrescuenetwork.com/) \
 <br/>
@@ -62,7 +64,7 @@ Highlighted Projects: [Disc Rescue Platform](https://discrescuenetwork.com/) \
 [<img align="left" height="94px" width="94px" alt="Aglet Digital" src="https://aglet.com.br/logo.png"/>](https://aglet.com.br/)
 
 **Front-End Intern** \
-[**Aglet Digital**](https://aglet.com.br/) • Internship • Rio de Janeiro, Brazil \
+[**Aglet Digital**](https://www.linkedin.com/company/aglet-digital/posts/?feedView=all/) • Internship • Rio de Janeiro, Brazil \
 Languages & Technologies: `HTML`, `CSS`, `Bootstrap`, `JavaScript` \
 Highlighted Projects: Developed over 80 web pages, improving user experience and optimizing web systems. \
 <br/>
