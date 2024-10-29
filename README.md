@@ -71,9 +71,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>  
 </div>
-
+<div align="center">
+    
 ![snake gif](https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake-dark.svg)
 
+</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
