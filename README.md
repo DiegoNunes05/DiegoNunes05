@@ -73,9 +73,10 @@
 </div>
 
 <picture>
+  <!-- Modo escuro -->
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake.svg">
-  <img alt="snake animation" src="https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake.svg">
+  <!-- Modo claro -->
+  <img alt="snake gif" src="https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake.svg">
 </picture>
 
 <hr/>
