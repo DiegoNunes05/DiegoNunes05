@@ -58,12 +58,7 @@ Below is an overview of my most recent work experience:
 **Mid-Level Front-End Developer** \
 [**Disc Rescue Network**](https://www.discrescuenetwork.com/) • Full-time • Remote \
 Languages & Technologies: `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Bootstrap`, `Node.js` \
-Highlighted Projects:
-- Full Stack development of web applications using React.js, Next.js, and TypeScript to deliver scalable and high-performance solutions.
-- Development of reusable components and modular architecture, enhancing maintainability and scalability across the application.
-- Optimization of UI/UX using frameworks like Tailwind CSS and Bootstrap, ensuring responsive and accessible interfaces across devices.
-- Version control management with GitHub to maintain code quality and streamline collaborative workflows.
-- Agile development and remote collaboration with international teams, ensuring efficient communication and timely delivery of key features. 
+Highlighted Projects: [Disc Rescue Platform](https://github.com/Disc-Rescue-Network/disc-rescue-network/), [Disc Rescue admin dashboard](https://github.com/Disc-Rescue-Network/drn-admin-dashboard/), [Team Challenge App](https://github.com/Disc-Rescue-Network/team-challenge-app/) \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Aglet Digital" src="https://aglet.com.br/logo.png"/>](https://aglet.com.br/)
