@@ -72,12 +72,7 @@
   <h2>🐍 My Contributions 🐍</h2>  
 </div>
 
-<picture>
-  <!-- Modo escuro -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake-dark.svg">
-  <!-- Modo claro -->
-  <img alt="snake gif" src="https://github.com/DiegoNunes05/DiegoNunes05/blob/output/github-snake.svg">
-</picture>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 <hr/>
 
