@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **a disc rescue network**
  
- 🌱 I’m currently learning **Vue.js, Next.js, Firebase**
+ 🌱 I’m currently learning **Angular and Vue.js**
 
-💬 Ask me about **React, TypeScript, Node.js... or anything [here](https://github.com/DiegoNunes05/DiegoNunes05/issues)**
+💬 Ask me about: **React, TypeScript, Node.js... or anything [here](https://github.com/DiegoNunes05/DiegoNunes05/issues)**
 
-⚡ Fun fact **I enjoy learning languages through music and have used this method to learn English.**
+⚡ Fun fact: **I enjoy learning languages through music and have used this method to learn English.**
 
  </div>
  
