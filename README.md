@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a disc rescue network**
+ 🔭 I’m currently working on **a Disc Rescue Network**
  
  🌱 I’m currently learning **Angular and Vue.js**
 
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,express,firebase,mysql,nextjs,supabase" /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,bootstrap,tailwind,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,express,firebase,mysql,supabase,figma,git" /><br>
 </div>
 
 <br/>
