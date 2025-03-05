@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Disc Rescue Network**
+ 🔭 I’m currently working on **a Disc Rescue Network** & **Vortex Digital Enterprises**
  
  🌱 I’m currently learning **Angular and Vue.js**
 
