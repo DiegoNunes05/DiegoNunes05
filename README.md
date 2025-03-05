@@ -62,7 +62,7 @@
   **Front-End Developer** \
   **Vortex Digital Enterprises** • Part-time • Remote \
   Languages & Technologies: `React.js`, `Next.js`, `TypeScript`, `Rest API`, `Tailwind CSS`, `Bootstrap`, `Node.js` \
-  Highlighted Projects: [Team Challenge App](https://github.com/Disc-Rescue-Network/team-challenge-app/), [Tropical Bliss Wholesale Portal](https://github.com/Disc-Rescue-Network/tropical-bliss-wholesale-portal), [Sales Portal](https://github.com/Disc-Rescue-Network/sales-portal)
+  Highlighted Projects: [Tropical Bliss Wholesale Portal](https://github.com/Disc-Rescue-Network/tropical-bliss-wholesale-portal), [Sales Portal](https://github.com/Disc-Rescue-Network/sales-portal)
   <br/><br/>
 
   <a href="https://aglet.com.br/">
