@@ -52,7 +52,7 @@
   **Mid-Level Front-End Developer** \
   [**Disc Rescue Network**](https://www.discrescuenetwork.com/) • Full-time • Remote \
   Languages & Technologies: `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Bootstrap`, `Node.js` \
-  Highlighted Projects: [Disc Rescue Platform](https://github.com/Disc-Rescue-Network/disc-rescue-network/), [Disc Rescue admin dashboard](https://github.com/Disc-Rescue-Network/drn-admin-dashboard/), [Team Challenge App](https://github.com/Disc-Rescue-Network/team-challenge-app/), [Tropical Bliss Wholesale Portal](https://github.com/Disc-Rescue-Network/tropical-bliss-wholesale-portal)
+  Highlighted Projects: [Disc Rescue Platform](https://github.com/Disc-Rescue-Network/disc-rescue-network/), [Disc Rescue admin dashboard](https://github.com/Disc-Rescue-Network/drn-admin-dashboard/), [Team Challenge App](https://github.com/Disc-Rescue-Network/team-challenge-app/), [Tropical Bliss Wholesale Portal](https://github.com/Disc-Rescue-Network/tropical-bliss-wholesale-portal), [Sales Portal](https://github.com/Disc-Rescue-Network/sales-portal)
   <br/><br/>
 
   <a href="https://aglet.com.br/">
