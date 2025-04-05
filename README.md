@@ -60,7 +60,7 @@
     <img align="left" height="94px" width="94px" alt="Disc Rescue Network" src="https://raw.githubusercontent.com/DiegoNunes05/DiegoNunes05/main/images/disc-rescue-network-logo.jpeg" style="border: 2px solid #808080; border-radius: 8px; margin-right: 10px;"/>
   </a> 
 
-  **Mid-Level Front-End Developer** \
+  **Front-End Developer** \
   [**Disc Rescue Network**](https://www.discrescuenetwork.com/) • Part-time • Remote • New Jersey, United States \
   Languages & Technologies: `React.js`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Bootstrap`, `Node.js` \
   Highlighted Projects: [Disc Rescue Platform](https://github.com/Disc-Rescue-Network/disc-rescue-network/), [Disc Rescue admin dashboard](https://github.com/Disc-Rescue-Network/drn-admin-dashboard/),<br/> [Disc Rescue Demo Admin Dashboard](https://github.com/Disc-Rescue-Network/drn-demo-admin-dashboard), [Team Challenge App](https://github.com/Disc-Rescue-Network/team-challenge-app/),
